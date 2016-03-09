@@ -15,9 +15,11 @@ We will be stating from scratch on this assignment and pushing your finished cod
 
 Your assignment is to work through the [Meteor tutorials.](https://www.meteor.com/tutorials/blaze/creating-an-app)
 
-You will be woring through both the Todo App Turorial and the Todo app with React Tutorial.
+You will be woring through both the Todo App Turorial and the Todo app with React Tutorial. (*NOT* the Angular Todo App. This used angular 1 and isn't worth the time. :grimacing:)
 
-You will need to turn in 14 commits. One for each of the fallowing chapters:
+You will need to turn in 14 commits on 2 branches (7 commits on each). One for each of the fallowing chapters:
+
+**TODO APP TUTORIAL**
 
 - 2. Templates
 - 3. Collections
@@ -27,6 +29,17 @@ You will need to turn in 14 commits. One for each of the fallowing chapters:
 - 9. Adding User Accounts
 - 10. Security with Methods
 
+**TODO APP WITH REACT TUTORIAL**
+
+- 2. Templates
+- 3. Collections
+- 4. Forms and Events
+- 5. Update and Remove
+- 8. Filtering Collections
+- 9. Adding User Accounts
+- 10. Security with Methods
+
+Finish chapter '1. Creating an App' for the Todo app. Do a `git init` and commit to the master branch. Here is where both of your branches will start. At this point, create 2 branches, one for the Todo App and one for the Todo App with React.
 
 
 Include a README file that includes the following (Add emojis. It makes things more fun! :smile: ):
@@ -35,15 +48,13 @@ Include a README file that includes the following (Add emojis. It makes things m
 - Build instructions
 - What you learned
 - What you found difficult
-- Why are .gitignore files important
+- What are the advantages to branching in Git?
+- Researh two types of git workflows, and describe their process. (Gitflow, Github Workflow, Forking Workflow, Centrlized Workflow. ETC.)
+  - What are the advantages and disadvantages of each workflow.
 
 Also, as part of this assignment, you will need to include a .gitignore file to ignore files that *shouldn't* be tracked by git.
 
 
 
 #Tips
-- Typescript is a strongly typed language. Learn more about type systems [here.](https://www.smashingmagazine.com/2013/04/introduction-to-programming-type-systems/)
-- Angular 2 is a complete rewrite from Angular 1. It is still in open beta, but it is poised to be a big deal in web development.
-- Don't worry if you don't understand all the specifics with the details of the framework. Try and keep a broad view of how things connect. At the end of the day, in Angular we are still writing web components. Like what we did in Polymer or React.
-- Research .gitignore files and why you should use them.
-- For complete list of emojis go [here](http://www.emoji-cheat-sheet.com/)
+- You will need to install the Meteor CLI. [Here](https://www.meteor.com/install) is how to do it.
