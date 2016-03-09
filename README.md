@@ -5,7 +5,7 @@ Meteor is a framework from writing real-time web apps. It is a full MVC framewor
 
 >Meteor gives you a radically simpler way to build realtime mobile and web apps, entirely in JavaScript from one code base.
 
-Here is the [Meteor Homepage}(https://www.meteor.com/)
+Here is the [Meteor Homepage](https://www.meteor.com/)
 
 
 #Steps
