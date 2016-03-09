@@ -31,16 +31,17 @@ You will need to turn in 14 commits on 2 branches (7 commits on each). One for e
 
 **TODO APP WITH REACT TUTORIAL**
 
-- 2. Templates
+- 2. Components
 - 3. Collections
 - 4. Forms and Events
 - 5. Update and Remove
-- 8. Filtering Collections
+- 8. Temorary UI State
 - 9. Adding User Accounts
 - 10. Security with Methods
 
-Finish chapter '1. Creating an App' for the Todo app. Do a `git init` and commit to the master branch. Here is where both of your branches will start. At this point, create 2 branches, one for the Todo App and one for the Todo App with React.
+*You can SKIP chapter 7 Running on Mobile,  on both tutorials. It is very cool, and is worth your time, but could have quite a bit of setup and overhead.*
 
+Finish chapter '1. Creating an App' for the Todo app. Do a `git init` and commit to the master branch. Here is where both of your branches will start. At this point, create 2 branches, one for the Todo App and one for the Todo App with React.
 
 Include a README file that includes the following (Add emojis. It makes things more fun! :smile: ):
 
@@ -54,7 +55,9 @@ Include a README file that includes the following (Add emojis. It makes things m
 
 Also, as part of this assignment, you will need to include a .gitignore file to ignore files that *shouldn't* be tracked by git.
 
+Lastly, turn in the *.meteor.com web addresses that you published each of your turorials to. (Also, it would be a good idea to put them in the README as well.)
 
 
 #Tips
 - You will need to install the Meteor CLI. [Here](https://www.meteor.com/install) is how to do it.
+- Use [GitIgnore.i0](gitignore.io)
