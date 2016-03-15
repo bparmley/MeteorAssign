@@ -9,13 +9,13 @@ Here is the [Meteor Homepage](https://www.meteor.com/)
 
 
 #Steps
-We will be stating from scratch on this assignment and pushing your finished code to you github account, and turning in a URL to the repo.
+We will be starting from scratch on this assignment and pushing your finished code to you github account, and turning in a URL to the repo.
 
 # Assignment
 
 Your assignment is to work through the [Meteor tutorials.](https://www.meteor.com/tutorials/blaze/creating-an-app)
 
-You will be woring through both the Todo App Turorial and the Todo app with React Tutorial. (*NOT* the Angular Todo App. This used angular 1 and isn't worth the time. :grimacing:)
+You will be working through both the Todo App Turorial and the Todo app with React Tutorial. (*NOT* the Angular Todo App. This used angular 1 and isn't worth the time. :grimacing:)
 
 You will need to turn in 14 commits on 2 branches (7 commits on each). One for each of the fallowing chapters:
 
@@ -25,9 +25,9 @@ You will need to turn in 14 commits on 2 branches (7 commits on each). One for e
 - 3. Collections
 - 4. Forms and Events
 - 5. Update and Remove
-- 8. Filtering Collections
-- 9. Adding User Accounts
-- 10. Security with Methods
+- 7. Temporary UI State
+- 8. Adding User Accounts
+- 9. Security with Methods
 
 **TODO APP WITH REACT TUTORIAL**
 
@@ -35,11 +35,11 @@ You will need to turn in 14 commits on 2 branches (7 commits on each). One for e
 - 3. Collections
 - 4. Forms and Events
 - 5. Update and Remove
-- 8. Temorary UI State
-- 9. Adding User Accounts
-- 10. Security with Methods
+- 7. Temorary UI State
+- 8. Adding User Accounts
+- 9. Security with Methods
 
-*You can SKIP chapter 7 Running on Mobile,  on both tutorials. It is very cool, and is worth your time, but could have quite a bit of setup and overhead.*
+*You can SKIP chapter 6 Running on Mobile,  on both tutorials. It is very cool, and is worth your time, but could have quite a bit of setup and overhead.*
 
 Finish chapter '1. Creating an App' for the Todo app. Do a `git init` and commit to the master branch. Here is where both of your branches will start. At this point, create 2 branches, one for the Todo App and one for the Todo App with React.
 
