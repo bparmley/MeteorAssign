@@ -28,3 +28,9 @@ As a developer on a Windows 10 machine I found that the program was slow and clu
 
 ##What are advantages to branching in Git?
 It baffles me that this even needs asking. Not only can you sandbox your development and testing environments/code base from your production but you are able to branch specific aspects or bits of code. This allows for a non-linear development system that may be more benneficial as many pieces may progress faster than others. It also allows for permissions to be set on a branch by branch basis to ensure that code can be reviewed before merging.
+
+##Gitflow
+This is a great workflow. If you want to make a feature or a hotfix you specify the git flow feature/hotfix start and finish with the feature name or hotfix number at the beginning and end of your work and it will merge the hotfix or the feature into your master and develop branches and cleans up the extra branch behing you to keep a clean set of branches.
+
+##Forking Workflow
+This is a great workflow for open-source and collaborative programming. The premise is that you first fork a repo, make a branch, test things locally, and once they have something of worth, they push to their own repository and make a pull request to submit their suggested changes. While the original developer may not want your changes, someone else may want it or think they can improve on your code so they can fork your repo and start the process all over again. This has the potential to provide many differing versions of the code out there if the original developer isn't actively reviewing and maintaining his code but if that is the case, chances are you don't want it anyway...
